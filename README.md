@@ -3,7 +3,7 @@
 
 🤖 I work as Data Scientist at [Quash](https://quash.ai/). </br>
 🔭 I've experience working with Transformers in Deep Learning. </br>
-🤔 I’m currently learning in Computer Vision, Deep learning and Machine Learning. </br>
+🤔 I’m currently learning Computer Vision, Deep learning and Machine Learning. </br>
 
 Programming Languages:</br>
 Python, C++, Javascript</br>
