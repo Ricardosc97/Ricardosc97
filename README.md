@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Silva</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-🤖 I work as Data Scientist at [Quash](https://quash.ai/). </br>
+🤖 Machine Learning Engineer at [RSP](https://www.rsp.com.au/). </br>
 🔭 I've experience working with Transformers in Deep Learning. </br>
 🤔 I’m currently learning Computer Vision, Deep learning and Machine Learning. </br>
 
